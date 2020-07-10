@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace StarChart.Models
 {
-    //TODO 02.01 : create CelestialOnject Model
+    //TODO 02.01 : create CelestialObject Model
     public class CelestialObject
     {
         //TODO 02.02 : add Properties

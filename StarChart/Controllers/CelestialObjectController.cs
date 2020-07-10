@@ -96,7 +96,7 @@ namespace StarChart.Controllers
             return NoContent();
         }
 
-        //TODO 05.03  : create RenameObject Action
+        //TODO 05.03 : create RenameObject Action
         [HttpPatch("{id}/{name}")]
         public IActionResult RenameObject(int id, string name)
         {
